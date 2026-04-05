@@ -22,7 +22,6 @@ The three deliverables share the same dataset and extraction pipeline; each buil
 .
 ├── p1/
 │   └── p1_eda_<student_id>.ipynb     # P1 notebook (this deliverable)
-├── videos/                            # Raw face videos (not included in repo)
 ├── data/                              # Extracted .npy files (30×N matrices)
 ├── info.xlsx                          # Hemoglobin labels
 └── README.md
