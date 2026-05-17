@@ -37,8 +37,6 @@ The three deliverables share the same dataset and extraction pipeline; each buil
 │   └── p2_regression_24018029.ipynb      # P2 — regression modeling
 ├── p3/
 │   └── p3_classification_24018029.ipynb  # P3 — classification & unsupervised
-├── data/                                  # Extracted .npy files (30×N matrices)
-├── info.xlsx                              # Hemoglobin labels
 └── README.md
 ```
 
