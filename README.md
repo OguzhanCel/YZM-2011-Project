@@ -39,10 +39,3 @@ The three deliverables share the same dataset and extraction pipeline; each buil
 │   └── p3_classification_24018029.ipynb  # P3 — classification & unsupervised
 └── README.md
 ```
-
-## Running the Notebooks
-
-1. **Environment**: Python 3.9+ with `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `scipy`, `mediapipe`, `opencv-python`, `openpyxl`.
-2. **P1**: Place videos in `videos/` and run `p1/p1_eda_24018029.ipynb` — extracts `.npy` files to `data/`.
-3. **P2**: Requires `data/*.npy` and `info.xlsx`. Run `p2/p2_regression_24018029.ipynb` — generates `agg_df_v2.csv` on first run.
-4. **P3**: Requires `agg_df_v2.csv` (or `data/*.npy` + `info.xlsx`). Run `p3/p3_classification_24018029.ipynb`.
