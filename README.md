@@ -39,7 +39,6 @@ The three deliverables share the same dataset and extraction pipeline; each buil
 │   └── p3_classification_24018029.ipynb  # P3 — classification & unsupervised
 ├── data/                                  # Extracted .npy files (30×N matrices)
 ├── info.xlsx                              # Hemoglobin labels
-├── agg_df_v2.csv                          # Cached aggregated features (auto-generated)
 └── README.md
 ```
 
